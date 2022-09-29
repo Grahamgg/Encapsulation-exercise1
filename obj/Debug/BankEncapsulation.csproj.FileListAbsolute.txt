@@ -1,0 +1,8 @@
+C:\Users\graha\Desktop\repos\BankEncapsulation\bin\Debug\BankEncapsulation.exe.config
+C:\Users\graha\Desktop\repos\BankEncapsulation\bin\Debug\BankEncapsulation.exe
+C:\Users\graha\Desktop\repos\BankEncapsulation\bin\Debug\BankEncapsulation.pdb
+C:\Users\graha\Desktop\repos\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\repos\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\graha\Desktop\repos\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\graha\Desktop\repos\BankEncapsulation\obj\Debug\BankEncapsulation.exe
+C:\Users\graha\Desktop\repos\BankEncapsulation\obj\Debug\BankEncapsulation.pdb
